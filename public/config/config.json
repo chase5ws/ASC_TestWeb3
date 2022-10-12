@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "你的合約地址",
+  "SCAN_LINK": "你的合約token track",
+  "NETWORK": {
+    "NAME": "網路鏈",
+    "SYMBOL": "主要代幣",
+    "ID": "網路鏈id"
+  },
+  "NFT_NAME": "你的nft名稱",
+  "SYMBOL": "縮寫",
+  "MAX_SUPPLY": "最大供應數",
+  "WEI_COST": "售價",
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "你的NFT在OPensea的連結",
+  "SHOW_BACKGROUND": true
+}
